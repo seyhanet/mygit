@@ -1,2 +1,2 @@
-# project
+# mygit
 my project
